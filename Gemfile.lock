@@ -1,5 +1,6 @@
 GEM
   remote: https://rubygems.org/
+  remote: https://github.com/awesome-print/awesome_print.git/
   specs:
     addressable (2.3.8)
     awesome_print (1.8.0)
